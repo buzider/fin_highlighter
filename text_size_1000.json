@@ -1,0 +1,1446 @@
+{
+    "Start time": {
+        "elapsed_time": "00:00:25",
+        "system_time": "2025-04-23 09:24:43"
+    },
+    "zero shot test finished!": {
+        "elapsed_time": "00:42:56",
+        "system_time": "2025-04-23 10:07:14"
+    },
+    "The 1 time training highlighter": {
+        "elapsed_time": "00:43:15",
+        "system_time": "2025-04-23 10:07:33"
+    },
+    "The 1 time training highlighter finished! start testing": {
+        "elapsed_time": "00:55:59",
+        "system_time": "2025-04-23 10:20:17"
+    },
+    "0_highlighter rank0 training test start!": {
+        "elapsed_time": "00:56:20",
+        "system_time": "2025-04-23 10:20:38"
+    },
+    "0_highlighter rank0 training test finished!": {
+        "elapsed_time": "01:01:24",
+        "system_time": "2025-04-23 10:25:42"
+    },
+    "0_highlighter rank0 validation test start!": {
+        "elapsed_time": "01:01:24",
+        "system_time": "2025-04-23 10:25:42"
+    },
+    "0_highlighter rank0 validation test finished!": {
+        "elapsed_time": "01:02:01",
+        "system_time": "2025-04-23 10:26:19"
+    },
+    "0_highlighter rank0 testing test start!": {
+        "elapsed_time": "01:02:01",
+        "system_time": "2025-04-23 10:26:19"
+    },
+    "0_highlighter rank0 testing test finished!": {
+        "elapsed_time": "01:02:38",
+        "system_time": "2025-04-23 10:26:56"
+    },
+    "0_highlighter rank0 expert test start!": {
+        "elapsed_time": "01:02:38",
+        "system_time": "2025-04-23 10:26:56"
+    },
+    "0_highlighter rank0 expert test finished!": {
+        "elapsed_time": "01:03:15",
+        "system_time": "2025-04-23 10:27:34"
+    },
+    "0_highlighter rank1 training test start!": {
+        "elapsed_time": "01:03:15",
+        "system_time": "2025-04-23 10:27:34"
+    },
+    "0_highlighter rank1 training test finished!": {
+        "elapsed_time": "01:09:16",
+        "system_time": "2025-04-23 10:33:34"
+    },
+    "0_highlighter rank1 validation test start!": {
+        "elapsed_time": "01:09:16",
+        "system_time": "2025-04-23 10:33:34"
+    },
+    "0_highlighter rank1 validation test finished!": {
+        "elapsed_time": "01:09:53",
+        "system_time": "2025-04-23 10:34:11"
+    },
+    "0_highlighter rank1 testing test start!": {
+        "elapsed_time": "01:09:53",
+        "system_time": "2025-04-23 10:34:11"
+    },
+    "0_highlighter rank1 testing test finished!": {
+        "elapsed_time": "01:10:36",
+        "system_time": "2025-04-23 10:34:54"
+    },
+    "0_highlighter rank1 expert test start!": {
+        "elapsed_time": "01:10:36",
+        "system_time": "2025-04-23 10:34:54"
+    },
+    "0_highlighter rank1 expert test finished!": {
+        "elapsed_time": "01:11:23",
+        "system_time": "2025-04-23 10:35:41"
+    },
+    "Early stopping score (f1), 1 times updated: 0.16427758614122306 at epoch 1": {
+        "elapsed_time": "01:11:32",
+        "system_time": "2025-04-23 10:35:50"
+    },
+    "Test finished. The 1 time training highlighter finished!": {
+        "elapsed_time": "01:11:32",
+        "system_time": "2025-04-23 10:35:50"
+    },
+    "Test finished. The 1 time training retriever": {
+        "elapsed_time": "01:11:32",
+        "system_time": "2025-04-23 10:35:50"
+    },
+    "Round 0 Start get contrastive learning data! ": {
+        "elapsed_time": "01:11:32",
+        "system_time": "2025-04-23 10:35:50"
+    },
+    "Round 0, Finish get contrastive learning data!": {
+        "elapsed_time": "02:50:56",
+        "system_time": "2025-04-23 12:15:14"
+    },
+    "Round 0 retriever training, Contrastive: Done, Loss = 4.396553039550781": {
+        "elapsed_time": "03:44:38",
+        "system_time": "2025-04-23 13:08:57"
+    },
+    "Round 0 retriever training, Validation Loss: 4.3919": {
+        "elapsed_time": "03:54:28",
+        "system_time": "2025-04-23 13:18:46"
+    },
+    "Round 0, Start compute embeddings!": {
+        "elapsed_time": "03:54:28",
+        "system_time": "2025-04-23 13:18:46"
+    },
+    "Round 0Finish compute embeddings!": {
+        "elapsed_time": "07:19:51",
+        "system_time": "2025-04-23 16:44:09"
+    },
+    "The 1 time training retriever finished! start testing": {
+        "elapsed_time": "07:19:51",
+        "system_time": "2025-04-23 16:44:09"
+    },
+    "0_retriever rank0 training test start!": {
+        "elapsed_time": "07:20:18",
+        "system_time": "2025-04-23 16:44:36"
+    },
+    "0_retriever rank0 training test finished!": {
+        "elapsed_time": "07:26:41",
+        "system_time": "2025-04-23 16:50:59"
+    },
+    "0_retriever rank0 validation test start!": {
+        "elapsed_time": "07:26:41",
+        "system_time": "2025-04-23 16:50:59"
+    },
+    "0_retriever rank0 validation test finished!": {
+        "elapsed_time": "07:27:28",
+        "system_time": "2025-04-23 16:51:46"
+    },
+    "0_retriever rank0 testing test start!": {
+        "elapsed_time": "07:27:28",
+        "system_time": "2025-04-23 16:51:46"
+    },
+    "0_retriever rank0 testing test finished!": {
+        "elapsed_time": "07:28:17",
+        "system_time": "2025-04-23 16:52:35"
+    },
+    "0_retriever rank0 expert test start!": {
+        "elapsed_time": "07:28:17",
+        "system_time": "2025-04-23 16:52:35"
+    },
+    "0_retriever rank0 expert test finished!": {
+        "elapsed_time": "07:29:06",
+        "system_time": "2025-04-23 16:53:24"
+    },
+    "0_retriever rank1 training test start!": {
+        "elapsed_time": "07:29:06",
+        "system_time": "2025-04-23 16:53:24"
+    },
+    "0_retriever rank1 training test finished!": {
+        "elapsed_time": "07:36:22",
+        "system_time": "2025-04-23 17:00:40"
+    },
+    "0_retriever rank1 validation test start!": {
+        "elapsed_time": "07:36:22",
+        "system_time": "2025-04-23 17:00:40"
+    },
+    "0_retriever rank1 validation test finished!": {
+        "elapsed_time": "07:37:16",
+        "system_time": "2025-04-23 17:01:34"
+    },
+    "0_retriever rank1 testing test start!": {
+        "elapsed_time": "07:37:16",
+        "system_time": "2025-04-23 17:01:34"
+    },
+    "0_retriever rank1 testing test finished!": {
+        "elapsed_time": "07:38:10",
+        "system_time": "2025-04-23 17:02:28"
+    },
+    "0_retriever rank1 expert test start!": {
+        "elapsed_time": "07:38:10",
+        "system_time": "2025-04-23 17:02:28"
+    },
+    "0_retriever rank1 expert test finished!": {
+        "elapsed_time": "07:39:05",
+        "system_time": "2025-04-23 17:03:23"
+    },
+    "Test finished. The 1 time training retriever finished!": {
+        "elapsed_time": "07:39:05",
+        "system_time": "2025-04-23 17:03:23"
+    },
+    "The 2 time training highlighter": {
+        "elapsed_time": "07:39:05",
+        "system_time": "2025-04-23 17:03:23"
+    },
+    "The 2 time training highlighter finished! start testing": {
+        "elapsed_time": "07:54:03",
+        "system_time": "2025-04-23 17:18:21"
+    },
+    "1_highlighter rank0 training test start!": {
+        "elapsed_time": "07:54:30",
+        "system_time": "2025-04-23 17:18:48"
+    },
+    "1_highlighter rank0 training test finished!": {
+        "elapsed_time": "08:00:58",
+        "system_time": "2025-04-23 17:25:16"
+    },
+    "1_highlighter rank0 validation test start!": {
+        "elapsed_time": "08:00:58",
+        "system_time": "2025-04-23 17:25:16"
+    },
+    "1_highlighter rank0 validation test finished!": {
+        "elapsed_time": "08:01:44",
+        "system_time": "2025-04-23 17:26:02"
+    },
+    "1_highlighter rank0 testing test start!": {
+        "elapsed_time": "08:01:44",
+        "system_time": "2025-04-23 17:26:02"
+    },
+    "1_highlighter rank0 testing test finished!": {
+        "elapsed_time": "08:02:31",
+        "system_time": "2025-04-23 17:26:50"
+    },
+    "1_highlighter rank0 expert test start!": {
+        "elapsed_time": "08:02:31",
+        "system_time": "2025-04-23 17:26:50"
+    },
+    "1_highlighter rank0 expert test finished!": {
+        "elapsed_time": "08:03:19",
+        "system_time": "2025-04-23 17:27:37"
+    },
+    "1_highlighter rank1 training test start!": {
+        "elapsed_time": "08:03:19",
+        "system_time": "2025-04-23 17:27:37"
+    },
+    "1_highlighter rank1 training test finished!": {
+        "elapsed_time": "08:10:22",
+        "system_time": "2025-04-23 17:34:40"
+    },
+    "1_highlighter rank1 validation test start!": {
+        "elapsed_time": "08:10:22",
+        "system_time": "2025-04-23 17:34:40"
+    },
+    "1_highlighter rank1 validation test finished!": {
+        "elapsed_time": "08:11:18",
+        "system_time": "2025-04-23 17:35:36"
+    },
+    "1_highlighter rank1 testing test start!": {
+        "elapsed_time": "08:11:18",
+        "system_time": "2025-04-23 17:35:36"
+    },
+    "1_highlighter rank1 testing test finished!": {
+        "elapsed_time": "08:12:05",
+        "system_time": "2025-04-23 17:36:23"
+    },
+    "1_highlighter rank1 expert test start!": {
+        "elapsed_time": "08:12:05",
+        "system_time": "2025-04-23 17:36:23"
+    },
+    "1_highlighter rank1 expert test finished!": {
+        "elapsed_time": "08:12:57",
+        "system_time": "2025-04-23 17:37:15"
+    },
+    "Early stopping score (f1), 2 times updated: 0.18702471364632037 at epoch 3": {
+        "elapsed_time": "08:13:06",
+        "system_time": "2025-04-23 17:37:24"
+    },
+    "Test finished. The 2 time training highlighter finished!": {
+        "elapsed_time": "08:13:06",
+        "system_time": "2025-04-23 17:37:24"
+    },
+    "Test finished. The 2 time training retriever": {
+        "elapsed_time": "08:13:06",
+        "system_time": "2025-04-23 17:37:24"
+    },
+    "Round 1 Start get contrastive learning data! ": {
+        "elapsed_time": "08:13:06",
+        "system_time": "2025-04-23 17:37:24"
+    },
+    "Round 1, Finish get contrastive learning data!": {
+        "elapsed_time": "09:51:32",
+        "system_time": "2025-04-23 19:15:50"
+    },
+    "Round 1 retriever training, Contrastive: Done, Loss = 4.388356685638428": {
+        "elapsed_time": "10:44:34",
+        "system_time": "2025-04-23 20:08:52"
+    },
+    "Round 1 retriever training, Validation Loss: 4.3959": {
+        "elapsed_time": "10:54:23",
+        "system_time": "2025-04-23 20:18:41"
+    },
+    "Round 1, Start compute embeddings!": {
+        "elapsed_time": "10:54:23",
+        "system_time": "2025-04-23 20:18:41"
+    },
+    "Round 1Finish compute embeddings!": {
+        "elapsed_time": "14:28:04",
+        "system_time": "2025-04-23 23:52:22"
+    },
+    "The 2 time training retriever finished! start testing": {
+        "elapsed_time": "14:28:04",
+        "system_time": "2025-04-23 23:52:22"
+    },
+    "1_retriever rank0 training test start!": {
+        "elapsed_time": "14:28:25",
+        "system_time": "2025-04-23 23:52:43"
+    },
+    "1_retriever rank0 training test finished!": {
+        "elapsed_time": "14:33:32",
+        "system_time": "2025-04-23 23:57:50"
+    },
+    "1_retriever rank0 validation test start!": {
+        "elapsed_time": "14:33:32",
+        "system_time": "2025-04-23 23:57:50"
+    },
+    "1_retriever rank0 validation test finished!": {
+        "elapsed_time": "14:34:10",
+        "system_time": "2025-04-23 23:58:28"
+    },
+    "1_retriever rank0 testing test start!": {
+        "elapsed_time": "14:34:10",
+        "system_time": "2025-04-23 23:58:28"
+    },
+    "1_retriever rank0 testing test finished!": {
+        "elapsed_time": "14:34:48",
+        "system_time": "2025-04-23 23:59:06"
+    },
+    "1_retriever rank0 expert test start!": {
+        "elapsed_time": "14:34:48",
+        "system_time": "2025-04-23 23:59:06"
+    },
+    "1_retriever rank0 expert test finished!": {
+        "elapsed_time": "14:35:26",
+        "system_time": "2025-04-23 23:59:44"
+    },
+    "1_retriever rank1 training test start!": {
+        "elapsed_time": "14:35:26",
+        "system_time": "2025-04-23 23:59:44"
+    },
+    "1_retriever rank1 training test finished!": {
+        "elapsed_time": "14:41:20",
+        "system_time": "2025-04-24 00:05:38"
+    },
+    "1_retriever rank1 validation test start!": {
+        "elapsed_time": "14:41:20",
+        "system_time": "2025-04-24 00:05:38"
+    },
+    "1_retriever rank1 validation test finished!": {
+        "elapsed_time": "14:42:03",
+        "system_time": "2025-04-24 00:06:21"
+    },
+    "1_retriever rank1 testing test start!": {
+        "elapsed_time": "14:42:03",
+        "system_time": "2025-04-24 00:06:21"
+    },
+    "1_retriever rank1 testing test finished!": {
+        "elapsed_time": "14:42:42",
+        "system_time": "2025-04-24 00:07:00"
+    },
+    "1_retriever rank1 expert test start!": {
+        "elapsed_time": "14:42:42",
+        "system_time": "2025-04-24 00:07:01"
+    },
+    "1_retriever rank1 expert test finished!": {
+        "elapsed_time": "14:43:21",
+        "system_time": "2025-04-24 00:07:39"
+    },
+    "Test finished. The 2 time training retriever finished!": {
+        "elapsed_time": "14:43:21",
+        "system_time": "2025-04-24 00:07:39"
+    },
+    "The 3 time training highlighter": {
+        "elapsed_time": "14:43:21",
+        "system_time": "2025-04-24 00:07:39"
+    },
+    "The 3 time training highlighter finished! start testing": {
+        "elapsed_time": "14:54:32",
+        "system_time": "2025-04-24 00:18:50"
+    },
+    "2_highlighter rank0 training test start!": {
+        "elapsed_time": "14:54:51",
+        "system_time": "2025-04-24 00:19:09"
+    },
+    "2_highlighter rank0 training test finished!": {
+        "elapsed_time": "14:59:45",
+        "system_time": "2025-04-24 00:24:03"
+    },
+    "2_highlighter rank0 validation test start!": {
+        "elapsed_time": "14:59:45",
+        "system_time": "2025-04-24 00:24:03"
+    },
+    "2_highlighter rank0 validation test finished!": {
+        "elapsed_time": "15:00:21",
+        "system_time": "2025-04-24 00:24:40"
+    },
+    "2_highlighter rank0 testing test start!": {
+        "elapsed_time": "15:00:21",
+        "system_time": "2025-04-24 00:24:40"
+    },
+    "2_highlighter rank0 testing test finished!": {
+        "elapsed_time": "15:00:57",
+        "system_time": "2025-04-24 00:25:15"
+    },
+    "2_highlighter rank0 expert test start!": {
+        "elapsed_time": "15:00:57",
+        "system_time": "2025-04-24 00:25:15"
+    },
+    "2_highlighter rank0 expert test finished!": {
+        "elapsed_time": "15:01:34",
+        "system_time": "2025-04-24 00:25:52"
+    },
+    "2_highlighter rank1 training test start!": {
+        "elapsed_time": "15:01:34",
+        "system_time": "2025-04-24 00:25:52"
+    },
+    "2_highlighter rank1 training test finished!": {
+        "elapsed_time": "15:07:21",
+        "system_time": "2025-04-24 00:31:39"
+    },
+    "2_highlighter rank1 validation test start!": {
+        "elapsed_time": "15:07:21",
+        "system_time": "2025-04-24 00:31:39"
+    },
+    "2_highlighter rank1 validation test finished!": {
+        "elapsed_time": "15:08:00",
+        "system_time": "2025-04-24 00:32:18"
+    },
+    "2_highlighter rank1 testing test start!": {
+        "elapsed_time": "15:08:00",
+        "system_time": "2025-04-24 00:32:18"
+    },
+    "2_highlighter rank1 testing test finished!": {
+        "elapsed_time": "15:08:39",
+        "system_time": "2025-04-24 00:32:57"
+    },
+    "2_highlighter rank1 expert test start!": {
+        "elapsed_time": "15:08:39",
+        "system_time": "2025-04-24 00:32:57"
+    },
+    "2_highlighter rank1 expert test finished!": {
+        "elapsed_time": "15:09:16",
+        "system_time": "2025-04-24 00:33:34"
+    },
+    "Test finished. The 3 time training highlighter finished!": {
+        "elapsed_time": "15:09:16",
+        "system_time": "2025-04-24 00:33:34"
+    },
+    "Test finished. The 3 time training retriever": {
+        "elapsed_time": "15:09:16",
+        "system_time": "2025-04-24 00:33:34"
+    },
+    "Round 2 Start get contrastive learning data! ": {
+        "elapsed_time": "15:09:16",
+        "system_time": "2025-04-24 00:33:34"
+    },
+    "Round 2, Finish get contrastive learning data!": {
+        "elapsed_time": "16:46:37",
+        "system_time": "2025-04-24 02:10:55"
+    },
+    "Round 2 retriever training, Contrastive: Done, Loss = 4.388906002044678": {
+        "elapsed_time": "17:39:48",
+        "system_time": "2025-04-24 03:04:06"
+    },
+    "Round 2 retriever training, Validation Loss: 4.3967": {
+        "elapsed_time": "17:49:40",
+        "system_time": "2025-04-24 03:13:58"
+    },
+    "Round 2, Start compute embeddings!": {
+        "elapsed_time": "17:49:40",
+        "system_time": "2025-04-24 03:13:58"
+    },
+    "Round 2Finish compute embeddings!": {
+        "elapsed_time": "21:34:26",
+        "system_time": "2025-04-24 06:58:44"
+    },
+    "The 3 time training retriever finished! start testing": {
+        "elapsed_time": "21:34:26",
+        "system_time": "2025-04-24 06:58:44"
+    },
+    "2_retriever rank0 training test start!": {
+        "elapsed_time": "21:34:47",
+        "system_time": "2025-04-24 06:59:05"
+    },
+    "2_retriever rank0 training test finished!": {
+        "elapsed_time": "21:39:47",
+        "system_time": "2025-04-24 07:04:05"
+    },
+    "2_retriever rank0 validation test start!": {
+        "elapsed_time": "21:39:47",
+        "system_time": "2025-04-24 07:04:05"
+    },
+    "2_retriever rank0 validation test finished!": {
+        "elapsed_time": "21:40:24",
+        "system_time": "2025-04-24 07:04:42"
+    },
+    "2_retriever rank0 testing test start!": {
+        "elapsed_time": "21:40:24",
+        "system_time": "2025-04-24 07:04:42"
+    },
+    "2_retriever rank0 testing test finished!": {
+        "elapsed_time": "21:40:59",
+        "system_time": "2025-04-24 07:05:18"
+    },
+    "2_retriever rank0 expert test start!": {
+        "elapsed_time": "21:40:59",
+        "system_time": "2025-04-24 07:05:18"
+    },
+    "2_retriever rank0 expert test finished!": {
+        "elapsed_time": "21:41:36",
+        "system_time": "2025-04-24 07:05:55"
+    },
+    "2_retriever rank1 training test start!": {
+        "elapsed_time": "21:41:36",
+        "system_time": "2025-04-24 07:05:55"
+    },
+    "2_retriever rank1 training test finished!": {
+        "elapsed_time": "21:46:55",
+        "system_time": "2025-04-24 07:11:13"
+    },
+    "2_retriever rank1 validation test start!": {
+        "elapsed_time": "21:46:55",
+        "system_time": "2025-04-24 07:11:14"
+    },
+    "2_retriever rank1 validation test finished!": {
+        "elapsed_time": "21:47:38",
+        "system_time": "2025-04-24 07:11:56"
+    },
+    "2_retriever rank1 testing test start!": {
+        "elapsed_time": "21:47:38",
+        "system_time": "2025-04-24 07:11:56"
+    },
+    "2_retriever rank1 testing test finished!": {
+        "elapsed_time": "21:48:20",
+        "system_time": "2025-04-24 07:12:39"
+    },
+    "2_retriever rank1 expert test start!": {
+        "elapsed_time": "21:48:20",
+        "system_time": "2025-04-24 07:12:39"
+    },
+    "2_retriever rank1 expert test finished!": {
+        "elapsed_time": "21:49:06",
+        "system_time": "2025-04-24 07:13:24"
+    },
+    "Test finished. The 3 time training retriever finished!": {
+        "elapsed_time": "21:49:06",
+        "system_time": "2025-04-24 07:13:24"
+    },
+    "The 4 time training highlighter": {
+        "elapsed_time": "21:49:06",
+        "system_time": "2025-04-24 07:13:24"
+    },
+    "The 4 time training highlighter finished! start testing": {
+        "elapsed_time": "22:00:44",
+        "system_time": "2025-04-24 07:25:02"
+    },
+    "3_highlighter rank0 training test start!": {
+        "elapsed_time": "22:01:05",
+        "system_time": "2025-04-24 07:25:23"
+    },
+    "3_highlighter rank0 training test finished!": {
+        "elapsed_time": "22:06:05",
+        "system_time": "2025-04-24 07:30:23"
+    },
+    "3_highlighter rank0 validation test start!": {
+        "elapsed_time": "22:06:05",
+        "system_time": "2025-04-24 07:30:23"
+    },
+    "3_highlighter rank0 validation test finished!": {
+        "elapsed_time": "22:06:44",
+        "system_time": "2025-04-24 07:31:03"
+    },
+    "3_highlighter rank0 testing test start!": {
+        "elapsed_time": "22:06:44",
+        "system_time": "2025-04-24 07:31:03"
+    },
+    "3_highlighter rank0 testing test finished!": {
+        "elapsed_time": "22:07:22",
+        "system_time": "2025-04-24 07:31:40"
+    },
+    "3_highlighter rank0 expert test start!": {
+        "elapsed_time": "22:07:22",
+        "system_time": "2025-04-24 07:31:40"
+    },
+    "3_highlighter rank0 expert test finished!": {
+        "elapsed_time": "22:07:59",
+        "system_time": "2025-04-24 07:32:18"
+    },
+    "3_highlighter rank1 training test start!": {
+        "elapsed_time": "22:07:59",
+        "system_time": "2025-04-24 07:32:18"
+    },
+    "3_highlighter rank1 training test finished!": {
+        "elapsed_time": "22:13:32",
+        "system_time": "2025-04-24 07:37:50"
+    },
+    "3_highlighter rank1 validation test start!": {
+        "elapsed_time": "22:13:32",
+        "system_time": "2025-04-24 07:37:50"
+    },
+    "3_highlighter rank1 validation test finished!": {
+        "elapsed_time": "22:14:15",
+        "system_time": "2025-04-24 07:38:33"
+    },
+    "3_highlighter rank1 testing test start!": {
+        "elapsed_time": "22:14:15",
+        "system_time": "2025-04-24 07:38:33"
+    },
+    "3_highlighter rank1 testing test finished!": {
+        "elapsed_time": "22:14:54",
+        "system_time": "2025-04-24 07:39:13"
+    },
+    "3_highlighter rank1 expert test start!": {
+        "elapsed_time": "22:14:55",
+        "system_time": "2025-04-24 07:39:13"
+    },
+    "3_highlighter rank1 expert test finished!": {
+        "elapsed_time": "22:15:39",
+        "system_time": "2025-04-24 07:39:57"
+    },
+    "Early stopping score (f1), 3 times updated: 0.2149428577838771 at epoch 7": {
+        "elapsed_time": "22:15:48",
+        "system_time": "2025-04-24 07:40:06"
+    },
+    "Test finished. The 4 time training highlighter finished!": {
+        "elapsed_time": "22:15:48",
+        "system_time": "2025-04-24 07:40:06"
+    },
+    "Test finished. The 4 time training retriever": {
+        "elapsed_time": "22:15:48",
+        "system_time": "2025-04-24 07:40:06"
+    },
+    "Round 3 Start get contrastive learning data! ": {
+        "elapsed_time": "22:15:48",
+        "system_time": "2025-04-24 07:40:06"
+    },
+    "Round 3, Finish get contrastive learning data!": {
+        "elapsed_time": "23:56:04",
+        "system_time": "2025-04-24 09:20:22"
+    },
+    "Round 3 retriever training, Contrastive: Done, Loss = 4.389652252197266": {
+        "elapsed_time": "24:48:54",
+        "system_time": "2025-04-24 10:13:12"
+    },
+    "Round 3 retriever training, Validation Loss: 4.3947": {
+        "elapsed_time": "24:58:41",
+        "system_time": "2025-04-24 10:22:59"
+    },
+    "Round 3, Start compute embeddings!": {
+        "elapsed_time": "24:58:41",
+        "system_time": "2025-04-24 10:22:59"
+    },
+    "Round 3Finish compute embeddings!": {
+        "elapsed_time": "28:19:06",
+        "system_time": "2025-04-24 13:43:24"
+    },
+    "The 4 time training retriever finished! start testing": {
+        "elapsed_time": "28:19:06",
+        "system_time": "2025-04-24 13:43:25"
+    },
+    "3_retriever rank0 training test start!": {
+        "elapsed_time": "28:19:27",
+        "system_time": "2025-04-24 13:43:45"
+    },
+    "3_retriever rank0 training test finished!": {
+        "elapsed_time": "28:24:25",
+        "system_time": "2025-04-24 13:48:43"
+    },
+    "3_retriever rank0 validation test start!": {
+        "elapsed_time": "28:24:25",
+        "system_time": "2025-04-24 13:48:43"
+    },
+    "3_retriever rank0 validation test finished!": {
+        "elapsed_time": "28:25:03",
+        "system_time": "2025-04-24 13:49:21"
+    },
+    "3_retriever rank0 testing test start!": {
+        "elapsed_time": "28:25:03",
+        "system_time": "2025-04-24 13:49:21"
+    },
+    "3_retriever rank0 testing test finished!": {
+        "elapsed_time": "28:25:39",
+        "system_time": "2025-04-24 13:49:57"
+    },
+    "3_retriever rank0 expert test start!": {
+        "elapsed_time": "28:25:39",
+        "system_time": "2025-04-24 13:49:57"
+    },
+    "3_retriever rank0 expert test finished!": {
+        "elapsed_time": "28:26:15",
+        "system_time": "2025-04-24 13:50:33"
+    },
+    "3_retriever rank1 training test start!": {
+        "elapsed_time": "28:26:15",
+        "system_time": "2025-04-24 13:50:33"
+    },
+    "3_retriever rank1 training test finished!": {
+        "elapsed_time": "28:31:40",
+        "system_time": "2025-04-24 13:55:58"
+    },
+    "3_retriever rank1 validation test start!": {
+        "elapsed_time": "28:31:40",
+        "system_time": "2025-04-24 13:55:58"
+    },
+    "3_retriever rank1 validation test finished!": {
+        "elapsed_time": "28:32:25",
+        "system_time": "2025-04-24 13:56:43"
+    },
+    "3_retriever rank1 testing test start!": {
+        "elapsed_time": "28:32:25",
+        "system_time": "2025-04-24 13:56:43"
+    },
+    "3_retriever rank1 testing test finished!": {
+        "elapsed_time": "28:33:07",
+        "system_time": "2025-04-24 13:57:25"
+    },
+    "3_retriever rank1 expert test start!": {
+        "elapsed_time": "28:33:07",
+        "system_time": "2025-04-24 13:57:25"
+    },
+    "3_retriever rank1 expert test finished!": {
+        "elapsed_time": "28:33:53",
+        "system_time": "2025-04-24 13:58:12"
+    },
+    "Test finished. The 4 time training retriever finished!": {
+        "elapsed_time": "28:33:53",
+        "system_time": "2025-04-24 13:58:12"
+    },
+    "The 5 time training highlighter": {
+        "elapsed_time": "28:33:53",
+        "system_time": "2025-04-24 13:58:12"
+    },
+    "The 5 time training highlighter finished! start testing": {
+        "elapsed_time": "28:44:55",
+        "system_time": "2025-04-24 14:09:14"
+    },
+    "4_highlighter rank0 training test start!": {
+        "elapsed_time": "28:45:16",
+        "system_time": "2025-04-24 14:09:34"
+    },
+    "4_highlighter rank0 training test finished!": {
+        "elapsed_time": "28:50:13",
+        "system_time": "2025-04-24 14:14:31"
+    },
+    "4_highlighter rank0 validation test start!": {
+        "elapsed_time": "28:50:13",
+        "system_time": "2025-04-24 14:14:31"
+    },
+    "4_highlighter rank0 validation test finished!": {
+        "elapsed_time": "28:50:49",
+        "system_time": "2025-04-24 14:15:07"
+    },
+    "4_highlighter rank0 testing test start!": {
+        "elapsed_time": "28:50:49",
+        "system_time": "2025-04-24 14:15:07"
+    },
+    "4_highlighter rank0 testing test finished!": {
+        "elapsed_time": "28:51:25",
+        "system_time": "2025-04-24 14:15:43"
+    },
+    "4_highlighter rank0 expert test start!": {
+        "elapsed_time": "28:51:25",
+        "system_time": "2025-04-24 14:15:43"
+    },
+    "4_highlighter rank0 expert test finished!": {
+        "elapsed_time": "28:52:02",
+        "system_time": "2025-04-24 14:16:20"
+    },
+    "4_highlighter rank1 training test start!": {
+        "elapsed_time": "28:52:02",
+        "system_time": "2025-04-24 14:16:20"
+    },
+    "4_highlighter rank1 training test finished!": {
+        "elapsed_time": "28:57:19",
+        "system_time": "2025-04-24 14:21:37"
+    },
+    "4_highlighter rank1 validation test start!": {
+        "elapsed_time": "28:57:19",
+        "system_time": "2025-04-24 14:21:37"
+    },
+    "4_highlighter rank1 validation test finished!": {
+        "elapsed_time": "28:58:04",
+        "system_time": "2025-04-24 14:22:22"
+    },
+    "4_highlighter rank1 testing test start!": {
+        "elapsed_time": "28:58:04",
+        "system_time": "2025-04-24 14:22:22"
+    },
+    "4_highlighter rank1 testing test finished!": {
+        "elapsed_time": "28:58:47",
+        "system_time": "2025-04-24 14:23:05"
+    },
+    "4_highlighter rank1 expert test start!": {
+        "elapsed_time": "28:58:47",
+        "system_time": "2025-04-24 14:23:05"
+    },
+    "4_highlighter rank1 expert test finished!": {
+        "elapsed_time": "28:59:27",
+        "system_time": "2025-04-24 14:23:45"
+    },
+    "Early stopping score (f1), 4 times updated: 0.24000626559704907 at epoch 9": {
+        "elapsed_time": "28:59:36",
+        "system_time": "2025-04-24 14:23:54"
+    },
+    "Test finished. The 5 time training highlighter finished!": {
+        "elapsed_time": "28:59:36",
+        "system_time": "2025-04-24 14:23:54"
+    },
+    "Test finished. The 5 time training retriever": {
+        "elapsed_time": "28:59:36",
+        "system_time": "2025-04-24 14:23:54"
+    },
+    "Round 4 Start get contrastive learning data! ": {
+        "elapsed_time": "28:59:36",
+        "system_time": "2025-04-24 14:23:54"
+    },
+    "Round 4, Finish get contrastive learning data!": {
+        "elapsed_time": "30:35:42",
+        "system_time": "2025-04-24 16:00:00"
+    },
+    "Round 4 retriever training, Contrastive: Done, Loss = 4.389354705810547": {
+        "elapsed_time": "31:28:30",
+        "system_time": "2025-04-24 16:52:48"
+    },
+    "Round 4 retriever training, Validation Loss: 4.3944": {
+        "elapsed_time": "31:38:16",
+        "system_time": "2025-04-24 17:02:34"
+    },
+    "Round 4, Start compute embeddings!": {
+        "elapsed_time": "31:38:16",
+        "system_time": "2025-04-24 17:02:34"
+    },
+    "Round 4Finish compute embeddings!": {
+        "elapsed_time": "34:58:42",
+        "system_time": "2025-04-24 20:23:01"
+    },
+    "The 5 time training retriever finished! start testing": {
+        "elapsed_time": "34:58:43",
+        "system_time": "2025-04-24 20:23:01"
+    },
+    "4_retriever rank0 training test start!": {
+        "elapsed_time": "34:59:02",
+        "system_time": "2025-04-24 20:23:21"
+    },
+    "4_retriever rank0 training test finished!": {
+        "elapsed_time": "35:03:50",
+        "system_time": "2025-04-24 20:28:08"
+    },
+    "4_retriever rank0 validation test start!": {
+        "elapsed_time": "35:03:50",
+        "system_time": "2025-04-24 20:28:08"
+    },
+    "4_retriever rank0 validation test finished!": {
+        "elapsed_time": "35:04:26",
+        "system_time": "2025-04-24 20:28:44"
+    },
+    "4_retriever rank0 testing test start!": {
+        "elapsed_time": "35:04:26",
+        "system_time": "2025-04-24 20:28:44"
+    },
+    "4_retriever rank0 testing test finished!": {
+        "elapsed_time": "35:05:01",
+        "system_time": "2025-04-24 20:29:19"
+    },
+    "4_retriever rank0 expert test start!": {
+        "elapsed_time": "35:05:01",
+        "system_time": "2025-04-24 20:29:19"
+    },
+    "4_retriever rank0 expert test finished!": {
+        "elapsed_time": "35:05:37",
+        "system_time": "2025-04-24 20:29:56"
+    },
+    "4_retriever rank1 training test start!": {
+        "elapsed_time": "35:05:37",
+        "system_time": "2025-04-24 20:29:56"
+    },
+    "4_retriever rank1 training test finished!": {
+        "elapsed_time": "35:10:57",
+        "system_time": "2025-04-24 20:35:16"
+    },
+    "4_retriever rank1 validation test start!": {
+        "elapsed_time": "35:10:57",
+        "system_time": "2025-04-24 20:35:16"
+    },
+    "4_retriever rank1 validation test finished!": {
+        "elapsed_time": "35:11:43",
+        "system_time": "2025-04-24 20:36:01"
+    },
+    "4_retriever rank1 testing test start!": {
+        "elapsed_time": "35:11:43",
+        "system_time": "2025-04-24 20:36:01"
+    },
+    "4_retriever rank1 testing test finished!": {
+        "elapsed_time": "35:12:20",
+        "system_time": "2025-04-24 20:36:38"
+    },
+    "4_retriever rank1 expert test start!": {
+        "elapsed_time": "35:12:20",
+        "system_time": "2025-04-24 20:36:38"
+    },
+    "4_retriever rank1 expert test finished!": {
+        "elapsed_time": "35:13:05",
+        "system_time": "2025-04-24 20:37:24"
+    },
+    "Early stopping score (f1), 5 times updated: 0.26247026232355425 at epoch 10": {
+        "elapsed_time": "35:13:15",
+        "system_time": "2025-04-24 20:37:33"
+    },
+    "Test finished. The 5 time training retriever finished!": {
+        "elapsed_time": "35:13:15",
+        "system_time": "2025-04-24 20:37:33"
+    },
+    "The 6 time training highlighter": {
+        "elapsed_time": "35:13:15",
+        "system_time": "2025-04-24 20:37:33"
+    },
+    "The 6 time training highlighter finished! start testing": {
+        "elapsed_time": "35:24:40",
+        "system_time": "2025-04-24 20:48:58"
+    },
+    "5_highlighter rank0 training test start!": {
+        "elapsed_time": "35:25:00",
+        "system_time": "2025-04-24 20:49:18"
+    },
+    "5_highlighter rank0 training test finished!": {
+        "elapsed_time": "35:29:59",
+        "system_time": "2025-04-24 20:54:17"
+    },
+    "5_highlighter rank0 validation test start!": {
+        "elapsed_time": "35:29:59",
+        "system_time": "2025-04-24 20:54:17"
+    },
+    "5_highlighter rank0 validation test finished!": {
+        "elapsed_time": "35:30:35",
+        "system_time": "2025-04-24 20:54:53"
+    },
+    "5_highlighter rank0 testing test start!": {
+        "elapsed_time": "35:30:35",
+        "system_time": "2025-04-24 20:54:53"
+    },
+    "5_highlighter rank0 testing test finished!": {
+        "elapsed_time": "35:31:11",
+        "system_time": "2025-04-24 20:55:29"
+    },
+    "5_highlighter rank0 expert test start!": {
+        "elapsed_time": "35:31:11",
+        "system_time": "2025-04-24 20:55:29"
+    },
+    "5_highlighter rank0 expert test finished!": {
+        "elapsed_time": "35:31:48",
+        "system_time": "2025-04-24 20:56:06"
+    },
+    "5_highlighter rank1 training test start!": {
+        "elapsed_time": "35:31:48",
+        "system_time": "2025-04-24 20:56:06"
+    },
+    "5_highlighter rank1 training test finished!": {
+        "elapsed_time": "35:37:48",
+        "system_time": "2025-04-24 21:02:06"
+    },
+    "5_highlighter rank1 validation test start!": {
+        "elapsed_time": "35:37:48",
+        "system_time": "2025-04-24 21:02:06"
+    },
+    "5_highlighter rank1 validation test finished!": {
+        "elapsed_time": "35:38:36",
+        "system_time": "2025-04-24 21:02:54"
+    },
+    "5_highlighter rank1 testing test start!": {
+        "elapsed_time": "35:38:36",
+        "system_time": "2025-04-24 21:02:54"
+    },
+    "5_highlighter rank1 testing test finished!": {
+        "elapsed_time": "35:39:22",
+        "system_time": "2025-04-24 21:03:40"
+    },
+    "5_highlighter rank1 expert test start!": {
+        "elapsed_time": "35:39:22",
+        "system_time": "2025-04-24 21:03:40"
+    },
+    "5_highlighter rank1 expert test finished!": {
+        "elapsed_time": "35:40:04",
+        "system_time": "2025-04-24 21:04:22"
+    },
+    "Early stopping score (f1), 6 times updated: 0.28537795258096027 at epoch 11": {
+        "elapsed_time": "35:40:14",
+        "system_time": "2025-04-24 21:04:32"
+    },
+    "Test finished. The 6 time training highlighter finished!": {
+        "elapsed_time": "35:40:14",
+        "system_time": "2025-04-24 21:04:32"
+    },
+    "Test finished. The 6 time training retriever": {
+        "elapsed_time": "35:40:14",
+        "system_time": "2025-04-24 21:04:32"
+    },
+    "Round 5 Start get contrastive learning data! ": {
+        "elapsed_time": "35:40:14",
+        "system_time": "2025-04-24 21:04:32"
+    },
+    "Round 5, Finish get contrastive learning data!": {
+        "elapsed_time": "37:16:22",
+        "system_time": "2025-04-24 22:40:41"
+    },
+    "Round 5 retriever training, Contrastive: Done, Loss = 4.390350818634033": {
+        "elapsed_time": "38:09:10",
+        "system_time": "2025-04-24 23:33:28"
+    },
+    "Round 5 retriever training, Validation Loss: 4.3939": {
+        "elapsed_time": "38:18:57",
+        "system_time": "2025-04-24 23:43:15"
+    },
+    "Round 5, Start compute embeddings!": {
+        "elapsed_time": "38:18:57",
+        "system_time": "2025-04-24 23:43:15"
+    },
+    "Round 5Finish compute embeddings!": {
+        "elapsed_time": "41:39:31",
+        "system_time": "2025-04-25 03:03:49"
+    },
+    "The 6 time training retriever finished! start testing": {
+        "elapsed_time": "41:39:32",
+        "system_time": "2025-04-25 03:03:50"
+    },
+    "5_retriever rank0 training test start!": {
+        "elapsed_time": "41:39:51",
+        "system_time": "2025-04-25 03:04:09"
+    },
+    "5_retriever rank0 training test finished!": {
+        "elapsed_time": "41:44:41",
+        "system_time": "2025-04-25 03:09:00"
+    },
+    "5_retriever rank0 validation test start!": {
+        "elapsed_time": "41:44:41",
+        "system_time": "2025-04-25 03:09:00"
+    },
+    "5_retriever rank0 validation test finished!": {
+        "elapsed_time": "41:45:17",
+        "system_time": "2025-04-25 03:09:35"
+    },
+    "5_retriever rank0 testing test start!": {
+        "elapsed_time": "41:45:17",
+        "system_time": "2025-04-25 03:09:35"
+    },
+    "5_retriever rank0 testing test finished!": {
+        "elapsed_time": "41:45:53",
+        "system_time": "2025-04-25 03:10:11"
+    },
+    "5_retriever rank0 expert test start!": {
+        "elapsed_time": "41:45:53",
+        "system_time": "2025-04-25 03:10:11"
+    },
+    "5_retriever rank0 expert test finished!": {
+        "elapsed_time": "41:46:29",
+        "system_time": "2025-04-25 03:10:48"
+    },
+    "5_retriever rank1 training test start!": {
+        "elapsed_time": "41:46:29",
+        "system_time": "2025-04-25 03:10:48"
+    },
+    "5_retriever rank1 training test finished!": {
+        "elapsed_time": "41:52:30",
+        "system_time": "2025-04-25 03:16:48"
+    },
+    "5_retriever rank1 validation test start!": {
+        "elapsed_time": "41:52:30",
+        "system_time": "2025-04-25 03:16:48"
+    },
+    "5_retriever rank1 validation test finished!": {
+        "elapsed_time": "41:53:13",
+        "system_time": "2025-04-25 03:17:31"
+    },
+    "5_retriever rank1 testing test start!": {
+        "elapsed_time": "41:53:13",
+        "system_time": "2025-04-25 03:17:31"
+    },
+    "5_retriever rank1 testing test finished!": {
+        "elapsed_time": "41:53:52",
+        "system_time": "2025-04-25 03:18:10"
+    },
+    "5_retriever rank1 expert test start!": {
+        "elapsed_time": "41:53:52",
+        "system_time": "2025-04-25 03:18:10"
+    },
+    "5_retriever rank1 expert test finished!": {
+        "elapsed_time": "41:54:47",
+        "system_time": "2025-04-25 03:19:05"
+    },
+    "Test finished. The 6 time training retriever finished!": {
+        "elapsed_time": "41:54:47",
+        "system_time": "2025-04-25 03:19:05"
+    },
+    "The 7 time training highlighter": {
+        "elapsed_time": "41:54:47",
+        "system_time": "2025-04-25 03:19:05"
+    },
+    "The 7 time training highlighter finished! start testing": {
+        "elapsed_time": "42:06:10",
+        "system_time": "2025-04-25 03:30:28"
+    },
+    "6_highlighter rank0 training test start!": {
+        "elapsed_time": "42:06:30",
+        "system_time": "2025-04-25 03:30:48"
+    },
+    "6_highlighter rank0 training test finished!": {
+        "elapsed_time": "42:11:30",
+        "system_time": "2025-04-25 03:35:48"
+    },
+    "6_highlighter rank0 validation test start!": {
+        "elapsed_time": "42:11:30",
+        "system_time": "2025-04-25 03:35:48"
+    },
+    "6_highlighter rank0 validation test finished!": {
+        "elapsed_time": "42:12:07",
+        "system_time": "2025-04-25 03:36:25"
+    },
+    "6_highlighter rank0 testing test start!": {
+        "elapsed_time": "42:12:07",
+        "system_time": "2025-04-25 03:36:25"
+    },
+    "6_highlighter rank0 testing test finished!": {
+        "elapsed_time": "42:12:42",
+        "system_time": "2025-04-25 03:37:01"
+    },
+    "6_highlighter rank0 expert test start!": {
+        "elapsed_time": "42:12:42",
+        "system_time": "2025-04-25 03:37:01"
+    },
+    "6_highlighter rank0 expert test finished!": {
+        "elapsed_time": "42:13:19",
+        "system_time": "2025-04-25 03:37:37"
+    },
+    "6_highlighter rank1 training test start!": {
+        "elapsed_time": "42:13:19",
+        "system_time": "2025-04-25 03:37:37"
+    },
+    "6_highlighter rank1 training test finished!": {
+        "elapsed_time": "42:18:43",
+        "system_time": "2025-04-25 03:43:01"
+    },
+    "6_highlighter rank1 validation test start!": {
+        "elapsed_time": "42:18:43",
+        "system_time": "2025-04-25 03:43:01"
+    },
+    "6_highlighter rank1 validation test finished!": {
+        "elapsed_time": "42:19:27",
+        "system_time": "2025-04-25 03:43:46"
+    },
+    "6_highlighter rank1 testing test start!": {
+        "elapsed_time": "42:19:27",
+        "system_time": "2025-04-25 03:43:46"
+    },
+    "6_highlighter rank1 testing test finished!": {
+        "elapsed_time": "42:20:08",
+        "system_time": "2025-04-25 03:44:26"
+    },
+    "6_highlighter rank1 expert test start!": {
+        "elapsed_time": "42:20:08",
+        "system_time": "2025-04-25 03:44:26"
+    },
+    "6_highlighter rank1 expert test finished!": {
+        "elapsed_time": "42:20:56",
+        "system_time": "2025-04-25 03:45:14"
+    },
+    "Test finished. The 7 time training highlighter finished!": {
+        "elapsed_time": "42:20:56",
+        "system_time": "2025-04-25 03:45:14"
+    },
+    "Test finished. The 7 time training retriever": {
+        "elapsed_time": "42:20:56",
+        "system_time": "2025-04-25 03:45:14"
+    },
+    "Round 6 Start get contrastive learning data! ": {
+        "elapsed_time": "42:20:56",
+        "system_time": "2025-04-25 03:45:14"
+    },
+    "Round 6, Finish get contrastive learning data!": {
+        "elapsed_time": "43:57:08",
+        "system_time": "2025-04-25 05:21:26"
+    },
+    "Round 6 retriever training, Contrastive: Done, Loss = 4.390290260314941": {
+        "elapsed_time": "44:50:09",
+        "system_time": "2025-04-25 06:14:27"
+    },
+    "Round 6 retriever training, Validation Loss: 4.3945": {
+        "elapsed_time": "44:59:59",
+        "system_time": "2025-04-25 06:24:17"
+    },
+    "Round 6, Start compute embeddings!": {
+        "elapsed_time": "44:59:59",
+        "system_time": "2025-04-25 06:24:17"
+    },
+    "Round 6Finish compute embeddings!": {
+        "elapsed_time": "48:20:34",
+        "system_time": "2025-04-25 09:44:52"
+    },
+    "The 7 time training retriever finished! start testing": {
+        "elapsed_time": "48:20:34",
+        "system_time": "2025-04-25 09:44:52"
+    },
+    "6_retriever rank0 training test start!": {
+        "elapsed_time": "48:20:54",
+        "system_time": "2025-04-25 09:45:12"
+    },
+    "6_retriever rank0 training test finished!": {
+        "elapsed_time": "48:25:44",
+        "system_time": "2025-04-25 09:50:02"
+    },
+    "6_retriever rank0 validation test start!": {
+        "elapsed_time": "48:25:44",
+        "system_time": "2025-04-25 09:50:02"
+    },
+    "6_retriever rank0 validation test finished!": {
+        "elapsed_time": "48:26:20",
+        "system_time": "2025-04-25 09:50:38"
+    },
+    "6_retriever rank0 testing test start!": {
+        "elapsed_time": "48:26:20",
+        "system_time": "2025-04-25 09:50:38"
+    },
+    "6_retriever rank0 testing test finished!": {
+        "elapsed_time": "48:26:55",
+        "system_time": "2025-04-25 09:51:13"
+    },
+    "6_retriever rank0 expert test start!": {
+        "elapsed_time": "48:26:55",
+        "system_time": "2025-04-25 09:51:13"
+    },
+    "6_retriever rank0 expert test finished!": {
+        "elapsed_time": "48:27:31",
+        "system_time": "2025-04-25 09:51:49"
+    },
+    "6_retriever rank1 training test start!": {
+        "elapsed_time": "48:27:31",
+        "system_time": "2025-04-25 09:51:49"
+    },
+    "6_retriever rank1 training test finished!": {
+        "elapsed_time": "48:32:45",
+        "system_time": "2025-04-25 09:57:03"
+    },
+    "6_retriever rank1 validation test start!": {
+        "elapsed_time": "48:32:45",
+        "system_time": "2025-04-25 09:57:03"
+    },
+    "6_retriever rank1 validation test finished!": {
+        "elapsed_time": "48:33:23",
+        "system_time": "2025-04-25 09:57:41"
+    },
+    "6_retriever rank1 testing test start!": {
+        "elapsed_time": "48:33:23",
+        "system_time": "2025-04-25 09:57:41"
+    },
+    "6_retriever rank1 testing test finished!": {
+        "elapsed_time": "48:34:00",
+        "system_time": "2025-04-25 09:58:18"
+    },
+    "6_retriever rank1 expert test start!": {
+        "elapsed_time": "48:34:00",
+        "system_time": "2025-04-25 09:58:18"
+    },
+    "6_retriever rank1 expert test finished!": {
+        "elapsed_time": "48:34:39",
+        "system_time": "2025-04-25 09:58:57"
+    },
+    "Test finished. The 7 time training retriever finished!": {
+        "elapsed_time": "48:34:39",
+        "system_time": "2025-04-25 09:58:57"
+    },
+    "The 8 time training highlighter": {
+        "elapsed_time": "48:34:39",
+        "system_time": "2025-04-25 09:58:57"
+    },
+    "The 8 time training highlighter finished! start testing": {
+        "elapsed_time": "48:45:58",
+        "system_time": "2025-04-25 10:10:16"
+    },
+    "7_highlighter rank0 training test start!": {
+        "elapsed_time": "48:46:18",
+        "system_time": "2025-04-25 10:10:36"
+    },
+    "7_highlighter rank0 training test finished!": {
+        "elapsed_time": "48:51:15",
+        "system_time": "2025-04-25 10:15:33"
+    },
+    "7_highlighter rank0 validation test start!": {
+        "elapsed_time": "48:51:15",
+        "system_time": "2025-04-25 10:15:33"
+    },
+    "7_highlighter rank0 validation test finished!": {
+        "elapsed_time": "48:51:52",
+        "system_time": "2025-04-25 10:16:10"
+    },
+    "7_highlighter rank0 testing test start!": {
+        "elapsed_time": "48:51:52",
+        "system_time": "2025-04-25 10:16:10"
+    },
+    "7_highlighter rank0 testing test finished!": {
+        "elapsed_time": "48:52:29",
+        "system_time": "2025-04-25 10:16:47"
+    },
+    "7_highlighter rank0 expert test start!": {
+        "elapsed_time": "48:52:29",
+        "system_time": "2025-04-25 10:16:47"
+    },
+    "7_highlighter rank0 expert test finished!": {
+        "elapsed_time": "48:53:06",
+        "system_time": "2025-04-25 10:17:24"
+    },
+    "7_highlighter rank1 training test start!": {
+        "elapsed_time": "48:53:06",
+        "system_time": "2025-04-25 10:17:24"
+    },
+    "7_highlighter rank1 training test finished!": {
+        "elapsed_time": "48:58:10",
+        "system_time": "2025-04-25 10:22:28"
+    },
+    "7_highlighter rank1 validation test start!": {
+        "elapsed_time": "48:58:10",
+        "system_time": "2025-04-25 10:22:28"
+    },
+    "7_highlighter rank1 validation test finished!": {
+        "elapsed_time": "48:58:46",
+        "system_time": "2025-04-25 10:23:04"
+    },
+    "7_highlighter rank1 testing test start!": {
+        "elapsed_time": "48:58:46",
+        "system_time": "2025-04-25 10:23:04"
+    },
+    "7_highlighter rank1 testing test finished!": {
+        "elapsed_time": "48:59:29",
+        "system_time": "2025-04-25 10:23:47"
+    },
+    "7_highlighter rank1 expert test start!": {
+        "elapsed_time": "48:59:29",
+        "system_time": "2025-04-25 10:23:47"
+    },
+    "7_highlighter rank1 expert test finished!": {
+        "elapsed_time": "49:00:07",
+        "system_time": "2025-04-25 10:24:25"
+    },
+    "Test finished. The 8 time training highlighter finished!": {
+        "elapsed_time": "49:00:07",
+        "system_time": "2025-04-25 10:24:25"
+    },
+    "Test finished. The 8 time training retriever": {
+        "elapsed_time": "49:00:07",
+        "system_time": "2025-04-25 10:24:25"
+    },
+    "Round 7 Start get contrastive learning data! ": {
+        "elapsed_time": "49:00:07",
+        "system_time": "2025-04-25 10:24:25"
+    },
+    "Round 7, Finish get contrastive learning data!": {
+        "elapsed_time": "50:35:39",
+        "system_time": "2025-04-25 11:59:58"
+    },
+    "Round 7 retriever training, Contrastive: Done, Loss = 4.391360759735107": {
+        "elapsed_time": "51:28:35",
+        "system_time": "2025-04-25 12:52:53"
+    },
+    "Round 7 retriever training, Validation Loss: 4.3944": {
+        "elapsed_time": "51:38:25",
+        "system_time": "2025-04-25 13:02:43"
+    },
+    "Round 7, Start compute embeddings!": {
+        "elapsed_time": "51:38:25",
+        "system_time": "2025-04-25 13:02:43"
+    },
+    "Round 7Finish compute embeddings!": {
+        "elapsed_time": "54:58:16",
+        "system_time": "2025-04-25 16:22:34"
+    },
+    "The 8 time training retriever finished! start testing": {
+        "elapsed_time": "54:58:16",
+        "system_time": "2025-04-25 16:22:34"
+    },
+    "7_retriever rank0 training test start!": {
+        "elapsed_time": "54:58:36",
+        "system_time": "2025-04-25 16:22:54"
+    },
+    "7_retriever rank0 training test finished!": {
+        "elapsed_time": "55:03:32",
+        "system_time": "2025-04-25 16:27:50"
+    },
+    "7_retriever rank0 validation test start!": {
+        "elapsed_time": "55:03:32",
+        "system_time": "2025-04-25 16:27:50"
+    },
+    "7_retriever rank0 validation test finished!": {
+        "elapsed_time": "55:04:10",
+        "system_time": "2025-04-25 16:28:28"
+    },
+    "7_retriever rank0 testing test start!": {
+        "elapsed_time": "55:04:10",
+        "system_time": "2025-04-25 16:28:28"
+    },
+    "7_retriever rank0 testing test finished!": {
+        "elapsed_time": "55:04:46",
+        "system_time": "2025-04-25 16:29:04"
+    },
+    "7_retriever rank0 expert test start!": {
+        "elapsed_time": "55:04:46",
+        "system_time": "2025-04-25 16:29:04"
+    },
+    "7_retriever rank0 expert test finished!": {
+        "elapsed_time": "55:05:23",
+        "system_time": "2025-04-25 16:29:41"
+    },
+    "7_retriever rank1 training test start!": {
+        "elapsed_time": "55:05:23",
+        "system_time": "2025-04-25 16:29:41"
+    },
+    "7_retriever rank1 training test finished!": {
+        "elapsed_time": "55:10:46",
+        "system_time": "2025-04-25 16:35:04"
+    },
+    "7_retriever rank1 validation test start!": {
+        "elapsed_time": "55:10:46",
+        "system_time": "2025-04-25 16:35:04"
+    },
+    "7_retriever rank1 validation test finished!": {
+        "elapsed_time": "55:11:40",
+        "system_time": "2025-04-25 16:35:58"
+    },
+    "7_retriever rank1 testing test start!": {
+        "elapsed_time": "55:11:40",
+        "system_time": "2025-04-25 16:35:58"
+    },
+    "7_retriever rank1 testing test finished!": {
+        "elapsed_time": "55:12:19",
+        "system_time": "2025-04-25 16:36:37"
+    },
+    "7_retriever rank1 expert test start!": {
+        "elapsed_time": "55:12:19",
+        "system_time": "2025-04-25 16:36:37"
+    },
+    "7_retriever rank1 expert test finished!": {
+        "elapsed_time": "55:12:58",
+        "system_time": "2025-04-25 16:37:16"
+    },
+    "Test finished. The 8 time training retriever finished!": {
+        "elapsed_time": "55:12:58",
+        "system_time": "2025-04-25 16:37:16"
+    },
+    "Iterative training finished!": {
+        "elapsed_time": "55:12:58",
+        "system_time": "2025-04-25 16:37:16"
+    }
+}
