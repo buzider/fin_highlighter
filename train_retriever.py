@@ -150,7 +150,7 @@ def quick_generate_contrastive_data(
     retriever,
     tokenizer,
     device,
-    text_size=1000,
+    text_size=250, # suggestion from gpt that 250 paragraphs are enough to make contrastive learning good enough, considering the training efficiency, quickly generation will use 250 paragraphs
     topk=5,
     num_negatives=80,
     batch_size=16,
